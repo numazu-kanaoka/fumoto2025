@@ -1,6 +1,6 @@
 /* ===== ヘッダーのスタイル ===== */
 header {
-  background-image: url(https://numazu-kanaoka.github.io/fumoto2025/images/1.png);
+  <img src="/fumoto2025/1.png" alt="header">
   padding: 350px;
   background-size: cover;
   background-color: #ffffdd;
