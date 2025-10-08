@@ -71,7 +71,9 @@ p {
   width: 50%;
   background-color: #ffffdd;
 }
-
+.access2 div {
+color:#663300
+}
 footer.ch7 {
   position: fixed;
   bottom: -1;
